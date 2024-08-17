@@ -31,14 +31,3 @@ class Solution {
 }
 
 Solution().test()
-
-// double y = 1;
-// double prev = 0;
-// while (1 <= Math.abs(y - prev)) {
-//    prev = y;
-//    y = 1.0 / 2 * (prev + x / prev);
-// }
-// while ((y + 1) * (y + 1) < x) {
-//    y++;
-// }
-// return (int) y;
